@@ -6,3 +6,5 @@ Backed up the database as “Maven_Market_Backup,” performed date column trans
 Executed various queries to derive insights:Calculated costs, sales figures, and revenue.
 Analyzed customer demographics and product performance.
 Segmented revenue and sales data by region, income, and membership.
+SQL file link-https://drive.google.com/file/d/15ZdUzdJ1FaQBnAq0AtBRM6xL81qE1WS5/view?usp=sharing
+PDF link-https://drive.google.com/file/d/1HBW1j8c_2elt5Gqe2iypuNMUQp9cgIah/view?usp=sharing
